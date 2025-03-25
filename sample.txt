@@ -1,0 +1,10 @@
+Jan Kowalski, urodzony 15.05.1985, mieszka przy ul. Wiosennej 10, 00-001 Warszawa.
+Jego numer PESEL to 85051512345, a dowód osobisty ma numer ABC123456.
+Kontakt z nim możliwy jest poprzez adres e-mail jan.kowalski@example.com.
+Telefon kontaktowy to +48 600 123 456, co stanowi część wrażliwych danych.
+Zatrudniony jest w firmie TestSp. na stanowisku kierownika działu IT, z wynagrodzeniem 8000 PLN brutto.
+Informacje o jego stanie zdrowia, w tym alergii na penicylinę, są przechowywane w systemie medycznym firmy.
+W rejestrze znajdują się także dane dotyczące historii ubezpieczeniowej oraz numer polisy ubezpieczeniowej PL123456789.
+Jego małżonka, Anna Nowak, urodzona 20.03.1987, posiada numer PESEL 87032054321 i mieszka razem z nim.
+W bazie danych firmy zapisano również informacje o numerze konta bankowego 12 3456 7890 1234 5678 9012 3456.
+Dane te są objęte rygorystycznymi procedurami RODO, aby zapewnić ich ochronę przed nieuprawnionym dostępem.
