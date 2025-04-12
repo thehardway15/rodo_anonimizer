@@ -1,0 +1,10 @@
+Karolina Nowak, urodzona 1982/03/15, mieszka przy ul. Leśnej 7A, 02-345 Kraków.
+Jej numer PESEL to 82031598765, który wykorzystywany jest w dokumentach tożsamości.
+Dokument tożsamości oznaczony jest kodem: ID-KRN-2022-003.
+Adres e-mail kontaktowy: karolina.nowak@example.net, służy do oficjalnej korespondencji.
+Numer telefonu zapisany jest w formacie międzynarodowym: (48) 501-234-567.
+Zatrudniona jest w firmie "TechSolutions" na stanowisku Specjalistki ds. bezpieczeństwa IT.
+Jej wynagrodzenie to 9500,00 PLN brutto miesięcznie.
+Ostatnia aktualizacja danych nastąpiła 15.04.2025 r.
+W systemie medycznym znajduje się informacja o alergii na sulfapiryd.
+Wszystkie dane są przetwarzane zgodnie z wytycznymi RODO oraz wewnętrznymi politykami bezpieczeństwa.
